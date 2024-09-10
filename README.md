@@ -2,7 +2,7 @@
 Un dépôt pour gérer mes cours...
 ## Sommaire
 
-- [ma fiche](fiche.md)
+- [ma fiche](Fiche.md)
 ### Et voici un titre de niveau 3
 Ceci est un paragraphe.
 Cette ligne s'affiche dans le même paragraphe à la suite de la première phrase sans retour à la ligne. Cette ligne s'affiche dans le même paragraphe avec un retour à la ligne
