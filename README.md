@@ -3,14 +3,8 @@ Un dépôt pour gérer mes cours...
 ## Sommaire
 
 - [ma fiche](Doc/Fiche.md)
-### Et voici un titre de niveau 3
-Ceci est un paragraphe.
-Cette ligne s'affiche dans le même paragraphe à la suite de la première phrase sans retour à la ligne. Cette ligne s'affiche dans le même paragraphe avec un retour à la ligne
-car on a laissé deux caractères espaces après le point de la phrase précédente.
-Cette ligne s'affiche dans un nouveau paragraphe
-car on a laissé deux sauts de ligne après le point de la phrase précédente.On peut obtenir du _texte_ avec *simple emphase* rendu en *italique*,
-du _texte_ avec **forte emphase** rendu en **Gras**,
-du code see ended are unes mone ces ens du texte.
+### 1:
+découverte du langage SysML avec deux activitées
 
 ## Un lien：
 Ce document est rédigé en MarkDown](https://fr.wikipedia.org/wiki/Markdown) •
