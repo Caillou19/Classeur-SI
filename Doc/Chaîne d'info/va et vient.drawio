@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0" version="24.9.1">
   <diagram name="Page-1" id="wxbeJBxuWxnf2kUkU62H">
-    <mxGraphModel dx="1426" dy="783" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="815" dy="447" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -40,11 +40,38 @@
         <mxCell id="kE0vcW6U0ur0HFXIyvap-15" value="" style="verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;shape=mxgraph.electrical.iec_logic_gates.or;" vertex="1" parent="1">
           <mxGeometry x="290" y="545" width="60" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="kE0vcW6U0ur0HFXIyvap-17" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="kE0vcW6U0ur0HFXIyvap-17" value="1" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="290" y="100" width="60" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="kE0vcW6U0ur0HFXIyvap-18" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="kE0vcW6U0ur0HFXIyvap-18" value="1" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="290" y="240" width="60" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="kE0vcW6U0ur0HFXIyvap-19" value="&#xa;&lt;span style=&quot;color: rgba(0, 0, 0, 0); font-family: monospace; font-size: 0px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: nowrap; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;&quot;&gt;%3CmxGraphModel%3E%3Croot%3E%3CmxCell%20id%3D%220%22%2F%3E%3CmxCell%20id%3D%221%22%20parent%3D%220%22%2F%3E%3CmxCell%20id%3D%222%22%20value%3D%22%22%20style%3D%22ellipse%3BwhiteSpace%3Dwrap%3Dwrap%3Bhtml%3D1%3Baspect%3Dfixe%3B%22%20vertex%3D%221%22%20parent%3D%221%22%3E%3CmxGéométrie%20x%3D%22350%22%20y%3D%22275%22%20largeur%3D%2210%22%20hauteur%3D%2210%22%20as%3D%22géométrie%22%2F%3E%3C% 2FmxCell%3E%3C%2Froot%3E%3C%2FmxGraphModel%3E" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="350" y="275" width="10" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="kE0vcW6U0ur0HFXIyvap-20" value="" style="verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;shape=mxgraph.electrical.iec_logic_gates.and;" vertex="1" parent="1">
+          <mxGeometry x="290" y="690" width="60" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="kE0vcW6U0ur0HFXIyvap-21" value="&#xa;&lt;span style=&quot;color: rgba(0, 0, 0, 0); font-family: monospace; font-size: 0px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: nowrap; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;&quot;&gt;%3CmxGraphModel%3E%3Croot%3E%3CmxCell%20id%3D%220%22%2F%3E%3CmxCell%20id%3D%221%22%20parent%3D%220%22%2F%3E%3CmxCell%20id%3D%222%22%20value%3D%22%22%20style%3D%22ellipse%3BwhiteSpace%3Dwrap%3Dwrap%3Bhtml%3D1%3Baspect%3Dfixe%3B%22%20vertex%3D%221%22%20parent%3D%221%22%3E%3CmxGéométrie%20x%3D%22350%22%20y%3D%22275%22%20largeur%3D%2210%22%20hauteur%3D%2210%22%20as%3D%22géométrie%22%2F%3E%3C% 2FmxCell%3E%3C%2Froot%3E%3C%2FmxGraphModel%3E" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="350" y="725" width="10" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="kE0vcW6U0ur0HFXIyvap-23" value="L = a" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="670" y="265" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="kE0vcW6U0ur0HFXIyvap-24" value="L = a . b" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="671" y="415" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="kE0vcW6U0ur0HFXIyvap-25" value="L = a . b" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="671" y="715" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="kE0vcW6U0ur0HFXIyvap-26" value="L = a . b + a . b" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="640" y="1015" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="kE0vcW6U0ur0HFXIyvap-27" value="L = a + b" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="670" y="855" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="kE0vcW6U0ur0HFXIyvap-28" value="L = a + b" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="670" y="570" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
