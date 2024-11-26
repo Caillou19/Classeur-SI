@@ -1,9 +1,51 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0" version="24.9.1">
   <diagram name="Page-1" id="wxbeJBxuWxnf2kUkU62H">
-    <mxGraphModel>
+    <mxGraphModel dx="1426" dy="783" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="kE0vcW6U0ur0HFXIyvap-1" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://ericecmorlaix.github.io/img/TableauFonctionLogique.png;" vertex="1" parent="1">
+          <mxGeometry x="10" y="10" width="762" height="1095" as="geometry" />
+        </mxCell>
+        <mxCell id="kE0vcW6U0ur0HFXIyvap-2" value="" style="verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;shape=mxgraph.electrical.logic_gates.buffer2;" vertex="1" parent="1">
+          <mxGeometry x="400" y="110" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="kE0vcW6U0ur0HFXIyvap-3" value="" style="verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;shape=mxgraph.electrical.logic_gates.inverter_2" vertex="1" parent="1">
+          <mxGeometry x="400" y="250" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="kE0vcW6U0ur0HFXIyvap-4" value="" style="verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;shape=mxgraph.electrical.logic_gates.logic_gate;operation=and;negating=1;negSize=0.15;" vertex="1" parent="1">
+          <mxGeometry x="400" y="700" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="kE0vcW6U0ur0HFXIyvap-6" value="" style="verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;shape=mxgraph.electrical.logic_gates.logic_gate;operation=xor;" vertex="1" parent="1">
+          <mxGeometry x="400" y="1000" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="kE0vcW6U0ur0HFXIyvap-9" value="" style="verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;shape=mxgraph.electrical.logic_gates.logic_gate;operation=or;negating=1;negSize=0.15;" vertex="1" parent="1">
+          <mxGeometry x="400" y="840" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="kE0vcW6U0ur0HFXIyvap-10" value="" style="verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;shape=mxgraph.electrical.logic_gates.logic_gate;operation=or;" vertex="1" parent="1">
+          <mxGeometry x="400" y="555" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="kE0vcW6U0ur0HFXIyvap-11" value="" style="verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;shape=mxgraph.electrical.logic_gates.logic_gate;operation=and;" vertex="1" parent="1">
+          <mxGeometry x="400" y="400" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="kE0vcW6U0ur0HFXIyvap-12" value="" style="verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;shape=mxgraph.electrical.iec_logic_gates.nor_2;" vertex="1" parent="1">
+          <mxGeometry x="290" y="830" width="66" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="kE0vcW6U0ur0HFXIyvap-13" value="" style="verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;shape=mxgraph.electrical.iec_logic_gates.xor;" vertex="1" parent="1">
+          <mxGeometry x="290" y="990" width="60" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="kE0vcW6U0ur0HFXIyvap-14" value="" style="verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;shape=mxgraph.electrical.iec_logic_gates.and;" vertex="1" parent="1">
+          <mxGeometry x="290" y="390" width="60" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="kE0vcW6U0ur0HFXIyvap-15" value="" style="verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;shape=mxgraph.electrical.iec_logic_gates.or;" vertex="1" parent="1">
+          <mxGeometry x="290" y="545" width="60" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="kE0vcW6U0ur0HFXIyvap-17" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="290" y="100" width="60" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="kE0vcW6U0ur0HFXIyvap-18" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="290" y="240" width="60" height="80" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
