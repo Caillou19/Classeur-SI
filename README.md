@@ -4,6 +4,4 @@
 
 [Fiche](./Doc/Fiche.md)
 
-Mon cahier de texte : 
-
-(https://ericecmorlaix.github.io/1SI_2024-2025/)
+Mon [cahier de texte](https://ericecmorlaix.github.io/1SI_2024-2025/)
