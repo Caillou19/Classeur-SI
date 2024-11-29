@@ -8,4 +8,4 @@
 
 
 
-# Mon [cahier de texte](https://ericecmorlaix.github.io/1SI_2024-2025/) contenant le contenu des scéance et le travail à faire 
+Mon [cahier de texte](https://ericecmorlaix.github.io/1SI_2024-2025/) contenant le contenu des scéance et le travail à faire 
